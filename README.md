@@ -1,5 +1,3 @@
-# README.md
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Talha;Computer+Science+Student;Full+Stack+Developer;Flutter+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
