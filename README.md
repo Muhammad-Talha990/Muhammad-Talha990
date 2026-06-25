@@ -84,7 +84,7 @@
 </p>
 
 ---
-
+ <!--
 # 🚀 Featured Projects
 
 ### 💬 Chat Application (MERN + Socket.io)
@@ -116,6 +116,7 @@
 * Modern UI/UX
 
 ---
+!-->
 
 # 📜 Certifications
 
